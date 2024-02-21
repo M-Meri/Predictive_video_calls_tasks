@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
     char character = 'a';
     bool flag = true;
 
-    qDebug() << integer << ' ' << fp_number << ' ' << dfp_number << ' ' << character << ' ' << flag << '\n';
+    qDebug() << integer << fp_number << dfp_number << character << flag;
 
     return a.exec();
 }
