@@ -1,0 +1,10 @@
+#theList {
+	list-style: none;
+	display: inline-block;
+}
+
+#theList li {
+	cursor: pointer;
+}
+
+
