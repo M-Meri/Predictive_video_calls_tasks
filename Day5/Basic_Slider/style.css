@@ -1,0 +1,28 @@
+#images {
+    width: 300px;
+}
+
+#myDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#prevBtn {
+    margin-right: 20px;
+    width: 100px;
+    height: 50px;
+}
+
+#nextBtn {
+    width: 100px;
+    height: 50px;
+}

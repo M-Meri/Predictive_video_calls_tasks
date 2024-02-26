@@ -1,0 +1,18 @@
+  .tabs {
+    display: flex;
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    background-color: #e4e2e2;
+    cursor: pointer;
+  }
+  
+  .tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid;
+  }
+  
